@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class largestofarray {
     public static void main(String[]args){
         Scanner ob = new Scanner(System.in);
         int n;
@@ -25,4 +25,3 @@ public class Main{
         System.out.printf("Third largest number of array is: %d", arr[2]);
     }
 }
-
